@@ -1,5 +1,7 @@
 #!/bin/bash
 #Print Primenumber between 1 to 100
+echo "Hello World"
+date
 prime_1=0
 echo " Prime numbers starting from 1 to 100 are:"
 echo "1"  
