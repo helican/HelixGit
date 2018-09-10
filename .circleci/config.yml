@@ -11,3 +11,6 @@ jobs:
       - run:
           name: Print the Current Time
           command: date
+      - run:
+          name: Print Prime Numbers 1 to 100
+          Command: ./prime100.sh
